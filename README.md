@@ -73,7 +73,7 @@ based on the main palette of [rose pine](https://rosepinetheme.com/palette/).
 
 ### everforest
 
-based on the medium palette of [everforest](https://github.com/sainnhe/everforest)
+based on the medium palette of [everforest](https://github.com/sainnhe/everforest).
 
 [theme files](https://github.com/refact0r/system24/blob/main/theme/flavors/everforest.theme.css)
 
