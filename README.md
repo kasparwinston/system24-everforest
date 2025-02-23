@@ -75,6 +75,6 @@ based on the main palette of [rose pine](https://rosepinetheme.com/palette/).
 
 based on the medium palette of [everforest](https://github.com/sainnhe/everforest).
 
-[theme files](https://github.com/refact0r/system24/blob/main/theme/flavors/everforest.theme.css)
+[theme file](https://github.com/refact0r/system24/blob/main/theme/flavors/everforest.theme.css)
 
 ![image](/assets/everforest.png)
